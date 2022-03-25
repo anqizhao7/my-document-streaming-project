@@ -1,0 +1,3 @@
+*.vscode
+/spark-warehouse
+/api_key.txt
