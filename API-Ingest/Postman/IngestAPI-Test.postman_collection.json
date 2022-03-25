@@ -12,7 +12,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"InvoiceNo\":536365,\"StockCode\":\"85123A\",\"Description\":\"WHITE HANGING HEART T-LIGHT HOLDER\",\"Quantity\":6,\"InvoiceDate\":\"12/2/2010 8:26\",\"UnitPrice\":2.55,\"CustomerID\":17850,\"Country\":\"United Kingdom\"}\r\n",
+					"raw": "{\"video_id\":\"2kyS6SvSYSE\",\"trending_date\":\"17.14.11\",\"title\":\"WE WANT TO TALK ABOUT OUR MARRIAGE\",\"channel_title\":\"CaseyNeistat\",\"category_id\":22, \"publish_time\":\"2017-11-13T17:13:01.000Z\",\"views\":748374,\"likes\":57527,\"dislikes\":2966,\"comment_count\":15954}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -20,13 +20,13 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:8000/invoiceitem",
+					"raw": "localhost:80/videoitem",
 					"host": [
 						"localhost"
 					],
-					"port": "8000",
+					"port": "80",
 					"path": [
-						"invoiceitem"
+						"videoitem"
 					]
 				}
 			},
@@ -39,7 +39,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"InvoiceNo\":536365,\"StockCode\":\"85123A\",\"Description\":\"WHITE HANGING HEART T-LIGHT HOLDER\",\"Quantity\":6,\"InvoiceDate\":\"12/2/2010 8:26232sa\",\"UnitPrice\":2.55,\"CustomerID\":17850,\"Country\":\"United Kingdom\"}\r\n",
+					"raw": "{\"video_id\":\"2kyS6SvSYSE\",\"trending_date\":\"17.14.11a\",\"title\":\"WE WANT TO TALK ABOUT OUR MARRIAGE\",\"channel_title\":\"CaseyNeistat\",\"category_id\":22, \"publish_time\":\"2017-11-13T17:13:01.000Z\",\"views\":748374,\"likes\":57527,\"dislikes\":2966,\"comment_count\":15954}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -47,13 +47,13 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:8000/invoiceitem",
+					"raw": "localhost:8000/videoitem",
 					"host": [
 						"localhost"
 					],
 					"port": "8000",
 					"path": [
-						"invoiceitem"
+						"videoitem"
 					]
 				}
 			},
